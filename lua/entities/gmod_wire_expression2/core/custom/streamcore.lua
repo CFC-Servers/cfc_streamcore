@@ -1,3 +1,4 @@
+-- trigger
 E2Lib.RegisterExtension( "streamcore", true )
 
 CreateConVar( "streamcore_antispam_seconds", 5, FCVAR_SERVER_CAN_EXECUTE )
